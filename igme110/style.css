@@ -14,8 +14,10 @@ body {
 footer {
     background-color: #D60101;
     color: black;
-    margin-bottom: 0;
+    position: fixed;
+    bottom: 0;
     height: 80px;
+    width: 100%;
 }
 
 img {
